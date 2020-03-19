@@ -1,0 +1,2 @@
+# pythonExcercise
+Luyện tập pytohn
